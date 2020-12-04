@@ -1,4 +1,4 @@
-# Markov Chain Monte Carlo (MCMC) Metropolis-Hastings algorithm
+# Markov Chain Monte Carlo (MCMC) 
 ## EEE554: Random Signal Theory Final Project
 
-### Task1
+Implementation of Metropolis-Hastings algorithm on different probability distributions.
